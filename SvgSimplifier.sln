@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SvgSimplifier", "SvgSimplifier.csproj", "{4D00AC6E-D1F9-473F-8FE6-B5509AC9BFAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D00AC6E-D1F9-473F-8FE6-B5509AC9BFAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D00AC6E-D1F9-473F-8FE6-B5509AC9BFAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D00AC6E-D1F9-473F-8FE6-B5509AC9BFAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D00AC6E-D1F9-473F-8FE6-B5509AC9BFAF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7D553320-D8FB-4042-A5A2-9F6321ED9671}
+	EndGlobalSection
+EndGlobal
